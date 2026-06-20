@@ -121,6 +121,11 @@ Finding reliable, genuinely free, and easy-to-use APIs can be time-consuming. Th
     *   Auth: `No`
     *   HTTPS: `Yes`
     *   CORS: `Yes`
+*   **[PixelVault](https://pixelvault.dev/docs)**
+    *   Description: Agent-first image hosting. Upload images via API, get instant CDN URLs.
+    *   Auth: `apiKey`
+    *   HTTPS: `Yes`
+    *   CORS: `No`
 
 ### Science & Space
 
